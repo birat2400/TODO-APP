@@ -24,4 +24,4 @@ app.use(express.json());
 
 app.listen(port, () => {
   console.log(`Application running in port ${port}`);
-});
+})
